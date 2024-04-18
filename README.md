@@ -1,0 +1,1 @@
+Este código irá calcular e mostrar quais somas de números inteiros são necessárias para alcançar o valor X. Por exemplo, se o valor X for 10, ele mostrará "1 + 9", indicando que para alcançar 10, você precisa somar 1 e 9.
